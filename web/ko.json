@@ -3,6 +3,7 @@
     "l10n_name": "한국어",
     "l10n_base_locale": "en",
     "l10n_base_name": "English",
+    "l10n_client": "web",
     "l10n_version": "2023090101",
     "l10n_author": "Bitcoin Freelancer",
     "pionex_title": "Pionex 파이넥스 – 스마트한 자동매매 트레이딩 거래소",
