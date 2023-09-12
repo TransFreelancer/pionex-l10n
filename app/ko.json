@@ -6000,7 +6000,7 @@
     "deribit_lottery_close_product_notice_modal_scheduled_quantity": "계획된 구독 금액:",
     "deribit_lottery_close_product_notice_modal_filled_quantity": "최종 위치:",
     "grid_v4_trans_count": "24시간/누적 차익거래 라운드 수",
-    "grid_v4_trans_value": "횟수",
+    "grid_v4_trans_value": "{count} 횟수",
     "grid_v4_pnl_by_u": "USDT로 반환",
     "grid_v4_pnl_by_quote": "복귀 {quote}",
     "grid_v4_pnl_by_u_des_1": "USDT본위 수익 = 현재 보유 코인수량 * 현재 코인 가격 - 투자액 * 코인 평단가 ",
