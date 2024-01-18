@@ -9544,5 +9544,19 @@
   "zendesk_login_sheet_content": "로그인하면 더 좋은 온라인 서비스를 받을 수 있고 CS 개선에 도움이 될 수도 있습니다",
   "zendesk_login_sheet_custom": "둘러보기",
   "zendesk_sheet_custom_placeholder": "메일 혹은 폰번호",
-  "zendesk_sheet_custom_title": "연락처를 입력하고 온라인 서비스를 시작하세요"
+  "zendesk_sheet_custom_title": "연락처를 입력하고 온라인 서비스를 시작하세요",
+  "sc_futures_detail_realized_profit":"실현 손익",
+  "sc_futures_unrealized_profit":"현재 포지션 손익",
+  "smart_copy_futures_trade_count":"마감된 거래",
+  "sc_order_details_qty":"포지션 수량",
+  "sc_order_details_vol":"거래 금액",
+  "sc_order_details_tab_position":"현재 포지션",
+  "sc_order_details_tab_history":"포지션 기록",
+  "sc_order_details_close_position_count":"마감된 포지션",
+  "sc_order_details_position_profit":"포지션 손익",
+  "sc_order_trigger_source:SIGNAL":"따라서 종료하기",
+  "sc_order_trigger_source:PARTIAL_PROFIT_STOP":"부분 익절",
+  "sc_order_position_null":"현재 포지션이 없습니다, 시그널이 올 때까지 기다려 주시기 바랍니다",
+  "sc_order_position_duration":"포지션 유지 시간",
+  "sc_order_view_transactions":"거래 기록 보기"
 }
